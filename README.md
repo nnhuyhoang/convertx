@@ -1,6 +1,6 @@
 # Convertx
 
-**TODO: Add description**
+Package to convert complex data type into simpler one
 
 ## Installation
 
